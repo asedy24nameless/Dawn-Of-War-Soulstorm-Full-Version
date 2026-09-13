@@ -237,4 +237,4 @@ This repository serves as the official landing page for Warhammer 40,000: Dawn o
 **Get the most recent version of Warhammer 40,000: Dawn of War Soulstorm today!**
 
 ---
-**Last updated:** 2026-09-13 19:08:20 UTC
+**Last updated:** 2026-09-13 21:57:41 UTC
